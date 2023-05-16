@@ -5,4 +5,4 @@
 @REM  desenvolvimento. Necessário ser admin local
 @REM
 
-NET USER devlocal senhadevlocal /ADD
+NET USER "devlocal" "senhadevlocal" /ADD
