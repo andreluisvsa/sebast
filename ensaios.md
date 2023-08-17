@@ -1,4 +1,4 @@
-# Ensaios de ferramentas e utilitários
+# Ensaio de ferramentas e utilitários
 
 Coleta de informações do ambiente:
 ```Cmd
