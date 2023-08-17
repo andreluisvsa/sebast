@@ -1,8 +1,7 @@
 @echo off
 
-@REM
 @REM  Coleta informações do ambiente (inventário): sistema operacional, 
-@REM  hardware (cpu, mem, nic, etc). 
+@REM  hardware (cpu, mem, nic, etc), fabricante e afins
 @REM 
 @REM  Plataforma...: Windows
 @REM  PreReqs......: ser admin local
