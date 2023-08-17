@@ -20,4 +20,4 @@ certmgr.msc
 
 Mais informações em:
 
-https://thegeekpage.com/how-to-view-digital-certificates-installed-in-windows-10/
+[https://thegeekpage.com/how-to-view-digital-certificates-installed-in-windows-10/](The Geek Page)
