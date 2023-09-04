@@ -1,7 +1,6 @@
 Option Base 0
 Option Explicit
 
-
 ' Transforma uma seleção de células que representam uma
 ' tabela pivotada em uma tabela normal, em que a primeira
 ' linha da tabela contém dados e não rótulos e as linhas.
