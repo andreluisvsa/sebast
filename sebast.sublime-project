@@ -1,0 +1,23 @@
+// configurações do projeto my-jorn
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+	],
+	"settings":
+	[
+		{
+			"theme"					: "Default.sublime-theme",
+			"translate_tabs_to_spaces"		: true,
+			"font_size"				: 10,
+			"tab_size"				: 4,
+			"highlight_line"			: true,
+			"line_padding_top"			: 1,
+			"line_padding_bottom"			: 1,
+			"save_on_focus_lost"			: true,
+			"show_project_first"			: true,
+		}
+	],
+}

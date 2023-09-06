@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sebast.sublime-project",
+			"settings":
+			{
+				"buffer_size": 398,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAWAgAALy8gY29uZmlndXJhw6fDtWVzIGRvIHByb2pldG8gbXktam9ybgp7CgkiZm9sZGVycyI6CglbCgkJewoJCQkicGF0aCI6ICJ2YmEiLAoJCX0sCQkKCgkJewoJCQkicGF0aCI6ICJ3bWkiLAoJCX0sCgkJewoJCQkicGF0aCI6ICJlbnYiLAoJCX0sCgkJewoJCQkicGF0aCI6ICIuIgoJCX0sCgldLAoJImZpbGVzIjoKCVsKCQl7CgkJCSJwYXRoIjogImxlaWFtZS5tZCIsCgkJfSwKCV0sCQoJInNldHRpbmdzIjoKCVsKCQl7CgkJCSJ0aGVtZSIJCQkJCTogIkRlZmF1bHQuc3VibGltZS10aGVtZSIsCgkJCSJ0cmFuc2xhdGVfdGFic190b19zcGFjZXMiCQk6IHRydWUsCgkJCSJmb250X3NpemUiCQkJCTogMTAsCgkJCSJ0YWJfc2l6ZSIJCQkJOiA0LAoJCQkiaGlnaGxpZ2h0X2xpbmUiCQkJOiB0cnVlLAoJCQkibGluZV9wYWRkaW5nX3RvcCIJCQk6IDEsCgkJCSJsaW5lX3BhZGRpbmdfYm90dG9tIgkJCTogMSwKCQkJInNhdmVfb25fZm9jdXNfbG9zdCIJCQk6IHRydWUsCgkJCSJzaG93X3Byb2plY3RfZmlyc3QiCQkJOiB0cnVlLAoJCX0KCV0sCn0KAAAAAAAAAAD6AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAD8AQAALy8gY29uZmlndXJhw6fDtWVzIGRvIHByb2pldG8gbXktam9ybgp7CgkiZm9sZGVycyI6CglbCgkJewoJCQkicGF0aCI6ICJ3bWkiLAoJCX0sCQkKCgkJewoJCQkicGF0aCI6ICJlbnYiLAoJCX0sCgkJewoJCQkicGF0aCI6ICIuIiwKCQl9LAoJXSwKCSJmaWxlcyI6CglbCgkJewoJCQkicGF0aCI6ICJsZWlhbWUubWQiLAoJCX0sCgldLAkKCSJzZXR0aW5ncyI6CglbCgkJewoJCQkidGhlbWUiCQkJCQk6ICJEZWZhdWx0LnN1YmxpbWUtdGhlbWUiLAoJCQkidHJhbnNsYXRlX3RhYnNfdG9fc3BhY2VzIgkJOiB0cnVlLAoJCQkiZm9udF9zaXplIgkJCQk6IDEwLAoJCQkidGFiX3NpemUiCQkJCTogNCwKCQkJImhpZ2hsaWdodF9saW5lIgkJCTogdHJ1ZSwKCQkJImxpbmVfcGFkZGluZ190b3AiCQkJOiAxLAoJCQkibGluZV9wYWRkaW5nX2JvdHRvbSIJCQk6IDEsCgkJCSJzYXZlX29uX2ZvY3VzX2xvc3QiCQkJOiB0cnVlLAoJCQkic2hvd19wcm9qZWN0X2ZpcnN0IgkJCTogdHJ1ZSwKCQl9CgldLAp9CgAAAAAAAAAA3wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAADhAQAALy8gY29uZmlndXJhw6fDtWVzIGRvIHByb2pldG8gbXktam9ybgp7CgkiZm9sZGVycyI6CglbCgkJewoJCQkicGF0aCI6ICJlbnYiLAoJCX0sCQkKCgkJewoJCQkicGF0aCI6ICIuIiwKCQl9LAoJXSwKCSJmaWxlcyI6CglbCgkJewoJCQkicGF0aCI6ICJsZWlhbWUubWQiLAoJCX0sCgldLAkKCSJzZXR0aW5ncyI6CglbCgkJewoJCQkidGhlbWUiCQkJCQk6ICJEZWZhdWx0LnN1YmxpbWUtdGhlbWUiLAoJCQkidHJhbnNsYXRlX3RhYnNfdG9fc3BhY2VzIgkJOiB0cnVlLAoJCQkiZm9udF9zaXplIgkJCQk6IDEwLAoJCQkidGFiX3NpemUiCQkJCTogNCwKCQkJImhpZ2hsaWdodF9saW5lIgkJCTogdHJ1ZSwKCQkJImxpbmVfcGFkZGluZ190b3AiCQkJOiAxLAoJCQkibGluZV9wYWRkaW5nX2JvdHRvbSIJCQk6IDEsCgkJCSJzYXZlX29uX2ZvY3VzX2xvc3QiCQkJOiB0cnVlLAoJCQkic2hvd19wcm9qZWN0X2ZpcnN0IgkJCTogdHJ1ZSwKCQl9CgldLAp9CgAAAAAAAAAAwQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					2,
+					"right_delete",
+					null,
+					"AgAAAFIAAAAAAAAAUgAAAAAAAAAyAAAACSJmaWxlcyI6CglbCgkJewoJCQkicGF0aCI6ICJsZWlhbWUubWQiLAoJCX0sCgldLAlSAAAAAAAAAFIAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAhAAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "ensaios.md",
+			"settings":
+			{
+				"buffer_size": 599,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: g",
+				"Package Control: Add Repository"
+			],
+			[
+				"git",
+				"Set Syntax: Git Ignore"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/prj/github/sebast"
+	],
+	"file_history":
+	[
+		"/D/prj/github/sebast/sebast.sublime-project",
+		"/D/prj/github/gitjorn/my-jorn/rascunhao.md",
+		"/D/prj/github/sebast/vba/modSebastVBA.bas",
+		"/D/prj/github/gitjorn/my-jorn/links.md",
+		"/D/prj/github/gitjorn/notas-tse/jorn/todolist-tse-202308.md",
+		"/D/prj/github/gitjorn/my-jorn/todolist-tse.md",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p05-gitlines-mensal.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p04-loginunidade.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p03-loginunidadedupl.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p02-loginunidadesonda.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p02-loginunidadesonda",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-p01-loginunidadetse.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-paramlocarqlogintse.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-paramlocarqloginsonda.m",
+		"/D/prj/github/gitjorn/my-jorn/tmp/tmp-paramloccsvgitlines.m",
+		"/D/prj/github/gitjorn/my-jorn/tse/cotel-infos.md",
+		"/D/prj/github/gitjorn/my-jorn/tse/cotel-bateria.md",
+		"/D/prj/git/infogit/gitlab-list-users.sql",
+		"/D/prj/git/infogit/gitlab-list-mergerequests.sql",
+		"/D/vdr/notas-tse/_/todolist-tse.md",
+		"/D/vdr/notas-tse/_/cotel-infos.md",
+		"/D/vdr/notas-tse/_/rascunhao-1.md",
+		"/D/app/etc/sublime-text/Data/Packages/sublime_diagram_plugin/Diagram.sublime-settings",
+		"/D/vdr/notas-tse/jorn/todolist-tse-202307.md",
+		"/D/vdr/notas-tse/_/sinaps-repasse.md",
+		"/D/vdr/notas-tse/_/start-links-treina.md",
+		"/D/app/ges/plantuml/exemplo.md"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sebast.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ensaios.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.6
+	},
+	"input":
+	{
+		"height": 45.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sebast.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\prj\\github\\gitjorn\\my-jorn-tse.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
